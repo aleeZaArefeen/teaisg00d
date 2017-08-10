@@ -1,0 +1,201 @@
+h2 {
+   color: #492d24;
+   font-family: 'Berkshire Swash', cursive;
+   font-size: 55px;
+}
+
+p {
+   color: #492d24;
+   font-family: 'Kavivanar', serif;
+   font-size: 20px;
+   margin-left: 2px;
+   margin-top: -15px;
+}
+
+body {
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/c4/88/bb/c488bb1a80c927ccc705e8c44130bc0b.jpg");
+  background-size: contain;
+  height: 100%;
+  background-attachment: fixed;
+  width: 100%;
+  margin: auto;
+  background-repeat: /* REVIEW: what is this lol */;
+}
+
+table {
+  border: 2px solid #000000;
+}
+
+td {
+  padding-left: 90px;
+  height: 100px;
+  width: 210px;
+  border: 2px solid #ffffff;
+  font-size: 40px;
+  font-family: 'Berkshire Swash', cursive;
+  background-color: #513128;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #967460;
+  font-size: 50px;
+}
+
+div {
+  margin: auto;
+  margin-top: 10px;
+}
+
+#top {
+  border: 1px solid black;
+  height: 285px;
+  width: 912px;
+  background-color: #ffffff;
+  margin: auto;
+  margin-top: -400px;
+}
+
+.leaf {
+  height: 220px;
+  width: 240px;
+  background-image: url("https://scontent.fyzd1-1.fna.fbcdn.net/v/t1.0-9/20638484_2084511218438570_533850066405795891_n.jpg?oh=7c4d0dbb023cc8a1cfedfbb9f8c4c6a7&oe=59EE7E75");
+  margin-left: 925px;
+  margin-top: -214px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.logo {
+  height: 220px;
+  width: 240px;
+  background-image: url("https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/20621191_2084268101796215_7623836514656366142_n.jpg?oh=ab41c4ee765cdfa7315744db567c7b03&oe=59F668E9");
+  margin-right: 920px;
+  margin-top: -230px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#middle {
+  border: 1px solid black;
+  height: 1200px;
+  width: 912px;
+  background-color: #ffffff;
+  margin: auto;
+  margin-top: 117px;
+}
+
+#welcome {
+  width: 892px;
+  height: 100px;
+  background-color: #e2dbd5;
+  margin-top: 1px;
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 65px;
+  padding: 10px;
+  color: #492d24;
+}
+
+#location {
+  font-size: 30px;
+  font-family: 'Kavivanar', cursive;
+  margin: auto;
+  margin-left: 250px;
+  margin-top: 15px;
+  margin-right: 40px;
+  color: #492d24;
+}
+
+.map {
+  height: 720px;
+  width: 790px;
+  background-image: url("https://scontent.fyzd1-1.fna.fbcdn.net/v/t31.0-8/20643280_2085533005003058_6213257382125984847_o.jpg?oh=4096c39da77b899f88cddc55a0b26f66&oe=59F9FD76");
+  margin-left: 65px;
+  margin-top: 5px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#hours {
+  font-size: 30px;
+  font-family: 'Kavivanar', cursive;
+  margin: auto;
+  margin-left: 250px;
+  margin-top: -185px;
+  margin-right: 40px;
+  color: #492d24;
+}
+
+.fb {
+  height: 130px;
+  width: 150px;
+  background-image: url("http://www.rus-zabor.ru/images/facebook-logo.jpg");
+  margin-left: 65px;
+  margin-top: 5px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.ig {
+  height: 100px;
+  width: 130px;
+  background-image: url("https://instagram-brand.com/wp-content/themes/ig-branding/assets/images/ig-logo-email.png");
+  margin-left: 90px;
+  margin-top: 5px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.tw {
+  height: 110px;
+  width: 140px;
+  background-image: url("https://www.seeklogo.net/wp-content/uploads/2011/08/twitter-bird-icon-logo-vector-400x400.png");
+  margin-left: 740px;
+  margin-top: -245px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.ye {
+  height: 100px;
+  width: 120px;
+  background-image: url("http://www.freepnglogos.com/uploads/yelp-logo-17.png");
+  margin-left: 740px;
+  margin-top: 30px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#phone {
+  font-size: 30px;
+  font-family: 'Kavivanar', cursive;
+  margin: auto;
+  margin-left: 290px;
+  margin-top: -185px;
+  margin-right: 40px;
+  color: #492d24;
+}
+
+#mail {
+  font-size: 30px;
+  font-family: 'Kavivanar', cursive;
+  margin: auto;
+  margin-left: 290px;
+  margin-top: 75px;
+  margin-right: 40px;
+  color: #492d24;
+}
+
+.swirl {
+  height: 550px;
+  width: 600px;
+  background-image: url("https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/20664628_2085253838364308_1002650718968626704_n.jpg?oh=b8c6b2c4324b21c936e2da2a63c90a81&oe=5A3322CA");
+  margin-left: 150px;
+  margin-top: 40px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}

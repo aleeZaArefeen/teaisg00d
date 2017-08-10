@@ -1,0 +1,215 @@
+h2 {
+   color: #492d24;
+   font-family: 'Berkshire Swash', cursive;
+   font-size: 55px;
+}
+
+p {
+   color: #492d24;
+   font-family: 'Kavivanar', serif;
+   font-size: 20px;
+   margin-left: 2px;
+   margin-top: -15px;
+}
+
+body {
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/c4/88/bb/c488bb1a80c927ccc705e8c44130bc0b.jpg");
+  background-size: contain;
+  height: 100%;
+  background-attachment: fixed;
+  width: 100%;
+  margin: auto;
+  background-repeat: /* REVIEW: what is this lol */;
+}
+
+table {
+  border: 2px solid #000000;
+}
+
+td {
+  padding-left: 90px;
+  height: 100px;
+  width: 210px;
+  border: 2px solid #ffffff;
+  font-size: 40px;
+  font-family: 'Berkshire Swash', cursive;
+  background-color: #513128;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #967460;
+  font-size: 50px;
+}
+
+
+div {
+  margin: auto;
+  margin-top: 10px;
+}
+
+#top {
+  border: 1px solid black;
+  height: 285px;
+  width: 912px;
+  background-color: #ffffff;
+  margin: auto;
+  margin-top: -400px;
+}
+
+.leaf {
+  height: 220px;
+  width: 240px;
+  background-image: url("https://scontent.fyzd1-1.fna.fbcdn.net/v/t1.0-9/20638484_2084511218438570_533850066405795891_n.jpg?oh=7c4d0dbb023cc8a1cfedfbb9f8c4c6a7&oe=59EE7E75");
+  margin-left: 925px;
+  margin-top: -214px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.logo {
+  height: 220px;
+  width: 240px;
+  background-image: url("https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/20621191_2084268101796215_7623836514656366142_n.jpg?oh=ab41c4ee765cdfa7315744db567c7b03&oe=59F668E9");
+  margin-right: 920px;
+  margin-top: -230px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#middle {
+  border: 1px solid black;
+  height: 1575px;
+  width: 912px;
+  background-color: #ffffff;
+  margin: auto;
+  margin-top: 117px;
+}
+
+#welcome {
+  width: 892px;
+  height: 100px;
+  background-color: #e2dbd5;
+  margin-top: 1px;
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 65px;
+  padding: 10px;
+  color: #492d24;
+}
+
+#who {
+  font-size: 30px;
+  font-family: 'Kavivanar', cursive;
+  margin: auto;
+  margin-left: 400px;
+  margin-top: 30px;
+  color: #492d24;
+}
+
+#start {
+
+  font-size: 30px;
+  font-family: 'Kavivanar', cursive;
+  margin: auto;
+  margin-left: 400px;
+  margin-top: 30px;
+  color: #492d24;
+}
+
+#cools {
+  font-size: 22px;
+  font-family: 'Kavivanar', cursive;
+  margin: auto;
+  margin-left: 400px;
+  margin-top: 25px;
+  margin-right: 30px;
+  color: #492d24;
+}
+
+#start {
+
+  font-size: 30px;
+  font-family: 'Kavivanar', cursive;
+  margin: auto;
+  margin-left: 400px;
+  margin-top: 30px;
+  color: #492d24;
+}
+
+.critic {
+    height: 400px;
+    width: 390px;
+    background-image: url("https://scontent.fyzd1-1.fna.fbcdn.net/v/t31.0-8/20643542_2085508051672220_4213601168685601758_o.jpg?oh=162aa17c893c622ccd863274ec80d267&oe=59F679D9");
+    margin-left: 20px;
+    margin-top: -270px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#experience {
+
+  font-size: 30px;
+  font-family: 'Kavivanar', cursive;
+  margin: auto;
+  margin-left: 150px;
+  margin-top: -50px;
+  color: #492d24;
+}
+
+#comment {
+  font-size: 30px;
+  font-family: 'Kavivanar', cursive;
+  height: 200px;
+  width: 300px;
+  margin-right: 300px;
+  margin-top: 30px;
+  padding-top: 20px;
+  padding-left: 304px;
+  padding-right: 304px;
+  border: 2px dashed black;
+}
+
+#rates {
+  font-size: 30px;
+  font-family: 'Kavivanar', cursive;
+  margin: auto;
+  margin-right: 400px;
+  margin-left: 20px;
+  margin-top: 30px;
+  color: #492d24;
+}
+
+#yeet {
+
+  font-size: 25px;
+  font-family: 'Kavivanar', cursive;
+  margin: auto;
+  margin-right: 540px;
+  margin-left: 20px;
+  margin-top: 30px;
+  color: #492d24;
+}
+
+.write {
+    height: 590px;
+    width: 540px;
+    background-image: url("https://scontent.fyzd1-1.fna.fbcdn.net/v/t1.0-9/20664506_2085525711670454_855499780615110397_n.jpg?oh=71153c4263e7c01e9be4b48afc80e06d&oe=59EE48C6");
+    margin-left: 370px;
+    margin-top: -280px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.swirl {
+  height: 550px;
+  width: 600px;
+  background-image: url("https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/20664628_2085253838364308_1002650718968626704_n.jpg?oh=b8c6b2c4324b21c936e2da2a63c90a81&oe=5A3322CA");
+  margin-left: 150px;
+  margin-top: -60px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
