@@ -1,0 +1,120 @@
+h2 {
+   color: black;
+   font-family: sans-serif;
+   font-size: 24pt;
+}
+
+h4 {
+   color: black;
+   font-family: sans-serif;
+   font-size: 15pt;
+}
+
+h6 {
+   color: black;
+   font-family: sans-serif;
+   font-size: 17px;
+   margin-left: 2px;
+   margin-top: -27px;
+}
+
+p {
+   color: black;
+   font-family: sans-serif;
+   font-size: 24px;
+   margin-left: 2px;
+   margin-top: -15px;
+}
+
+body {
+  background-image: url("http://i.imgur.com/lRq6T7n.gif");
+  background-size: contain;
+  height: 100%;
+  background-attachment: fixed;
+  width: 100%;
+  margin: auto;
+  background-repeat: /* REVIEW: what is this lol */;
+}
+
+table {
+  border: 2px solid #000000;
+}
+
+td {
+  margin-left: 40px;
+  height: 70px;
+  width: 297px;
+  border: 2px solid #ffffff;
+  font-size: 20px;
+  font-family: sans-serif;
+  background-color: black;
+  opacity: 0.9;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lightgreen;
+  font-size: 30px;
+}
+
+div {
+  margin: auto;
+  margin-top: 10px;
+  border-top: 0px;
+  border-color: white;
+}
+
+#top {
+  border: 1px solid black;
+  height: 318px;
+  width: 912px;
+  background-color: #ffffff;
+  margin: auto;
+  margin-top: -400px;
+}
+
+#study{
+    border: 1px solid black;
+    height: 1600px;
+    width: 912px;
+    background-color: #ffffff;
+    margin: auto;
+    margin-top: 75px;
+  }
+
+  #left {
+    font-size: 20px;
+    font-family: sans-serif;
+    margin: auto;
+    margin-left: 325px;
+    margin-top: -1500px;
+    color: red;
+  }
+
+#right{
+    font-size: 20px;
+    font-family: sans-serif;
+    margin: auto;
+    margin-left: 490px;
+    margin-top: 35px;
+    margin-right: 200px;
+    color: #00FF00;
+  }
+
+h1 {
+  color: blue;
+  font-size: 24pt;
+  text-decoration: line-through;
+}
+
+#list{
+  margin-left: 400px;
+}
+
+h3 {
+  margin-left: 210px;
+}
